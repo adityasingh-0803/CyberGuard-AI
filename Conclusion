@@ -1,8 +1,8 @@
-## Conclusion
+Conclusion
 
 In this project, we developed a **BERT-based cybercrime classification model** that accurately categorizes and analyzes cybercrime reports. By utilizing advanced natural language processing techniques, our model can effectively interpret and classify text data, which is crucial for automating the identification of cyber threats.
 
-### Benefits to Others
+Benefits to Others
 
 1. **Improved Response Times**: By automating the classification of cybercrime reports, organizations can respond to incidents more swiftly, allowing for faster intervention and mitigation of potential threats.
 
