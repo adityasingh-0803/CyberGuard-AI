@@ -1,5 +1,7 @@
 # CyberGuard-AI
 
+## By Aditya Singh & Mohak Gupta
+
 ## Introduction
 This project involves building a cybercrime classification model using a BERT-based architecture. The model is designed to classify text data into various categories and subcategories related to cybercrime.
 
